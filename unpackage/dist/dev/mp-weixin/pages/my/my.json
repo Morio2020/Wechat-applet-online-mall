@@ -1,0 +1,6 @@
+{
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "my-user-info": "/components/my-user-info/my-user-info"
+  }
+}
